@@ -1,0 +1,12 @@
+import java.util.Scanner
+fun main(args: Array<String>) {
+    val read = Scanner(System.`in`)
+    var t:Int = read.nextInt()
+    while(t>0){
+    var a:Int = read.nextInt()
+    var b:Int = read.nextInt()
+    var c=a+b
+    println("$c")
+    t--
+    }
+}
