@@ -23,6 +23,7 @@ int main()
         cout << n << endl;
         printf("Case %lld: %lld\n", ++tc, n);
     }
+    //sort(A,A+3,greater<int>());
     cout << "Done in " << clock() / CLOCKS_PER_SEC << "sec" << endl;
     //cout << "Done in " << clock() / 7.33e8 << "sec" << endl;
     return 0;
