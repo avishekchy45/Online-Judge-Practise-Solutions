@@ -24,6 +24,8 @@ int main()
         printf("Case %lld: %lld\n", ++tc, n);
     }
     //sort(A,A+3,greater<int>());
+    //ll maximum = *max_element(a, a + n);
+    //ll minimum = *min_element(a, a + n);
     cout << "Done in " << clock() / CLOCKS_PER_SEC << "sec" << endl;
     //cout << "Done in " << clock() / 7.33e8 << "sec" << endl;
     return 0;

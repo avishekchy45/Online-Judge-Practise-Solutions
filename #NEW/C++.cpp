@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     freopen("input.txt", "rt", stdin);
-    //freopen("output.txt","wt", stdout);
+    // freopen("output.txt","wt", stdout);
     ll t, tc = 0;
     cin >> t;
     while (t--)
