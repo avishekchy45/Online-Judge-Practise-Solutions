@@ -9,9 +9,9 @@ using namespace std;
 int fun(int n);
 int main()
 {
-    ios::sync_with_stdio(false);
-    cin.tie(0);
-    cout.tie(0);
+    // ios::sync_with_stdio(false);
+    // cin.tie(0);
+    // cout.tie(0);
     freopen("input.txt", "rt", stdin);
     freopen("output.txt", "wt", stdout);
     ll t, tc = 0;
@@ -26,7 +26,7 @@ int main()
     //sort(A,A+3,greater<int>());
     //ll maximum = *max_element(a, a + n);
     //ll minimum = *min_element(a, a + n);
-    cout << "Done in " << clock() / CLOCKS_PER_SEC << "sec" << endl;
+    // cout << "Done in " << clock() / CLOCKS_PER_SEC << "sec" << endl;
     //cout << "Done in " << clock() / 7.33e8 << "sec" << endl;
     return 0;
 }
