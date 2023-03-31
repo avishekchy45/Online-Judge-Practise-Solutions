@@ -13,7 +13,7 @@
 [![CodeMarshal](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/CodeMarshal?label=CodeMarshal&logo=files&style=flat)]()
 [![CSAcademy](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/CSAcademy?label=CSAcademy&logo=files&style=flat)]()
 [![DevSkill](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/DevSkill?label=DevSkill&logo=files&style=flat)]()
-[![HackerEarth](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/Hackerearth?label=HackerEarth&logo=files&style=flat)]()
+[![HackerEarth](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/HackerEarth?label=HackerEarth&logo=files&style=flat)]()
 [![HackerRank](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/HackerRank?label=HackerRank&logo=files&style=flat)]()
 [![LightOJ](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/LightOJ?label=LightOJ&logo=files&style=flat)]()
 [![NBUT](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/NBUT?label=NBUT&logo=files&style=flat)]()
