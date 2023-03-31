@@ -10,7 +10,7 @@
 
 [![AtCoder](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/AtCoder?label=AtCoder&logo=files&style=flat)](https://atcoder.jp/users/MAC45)
 [![CodeChef](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/CodeChef?label=CodeChef&logo=files&style=flat)](https://www.codechef.com/users/avishekchy45)
-[![Codeforces](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/Codeforces?label=Codeforces&logo=files&style=flat)](https://codeforces.com/profile/MAC45)
+[![CodeForces](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/CodeForces?label=CodeForces&logo=files&style=flat)](https://codeforces.com/profile/MAC45)
 [![SPOJ](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/SPOJ?label=SPOJ&logo=files&style=flat)](https://www.spoj.com/users/avishekchy45/)
 [![HackerEarth](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/HackerEarth?label=HackerEarth&logo=files&style=flat)](https://www.hackerearth.com/@avishekchy45)
 [![HackerRank](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/HackerRank?label=HackerRank&logo=files&style=flat)](https://www.hackerrank.com/avishekchy45)
