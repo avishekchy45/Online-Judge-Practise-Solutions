@@ -7,8 +7,8 @@ using namespace std;
 #define ll long long int
 int main()
 {
-    //freopen("input.txt", "rt", stdin);
-    //freopen("output.txt", "wt", stdout);
+    // freopen("input.txt", "rt", stdin);
+    // freopen("output.txt", "wt", stdout);
     int T, Case = 1;
     cin >> T;
     while (T--)

@@ -34,9 +34,9 @@ ll Inv(ll a, ll b) // exgcd inversing
     exgcd(a, b, x, y);
     return (x % b + b) % b;
 }
-//x--= (r1*M1*(M1^-1)+r2*M2*(M2^-1)…rn*Mn*(Mn^-1)) mod M;
-// M is the product of all the Mi are relatively prime p M / p [i]
-// M ^ -1 modulo p [i] of the inverse element
+// x--= (r1*M1*(M1^-1)+r2*M2*(M2^-1)…rn*Mn*(Mn^-1)) mod M;
+//  M is the product of all the Mi are relatively prime p M / p [i]
+//  M ^ -1 modulo p [i] of the inverse element
 ll CRT(ll p[], ll r[], ll n)
 {
     ans = 0;
@@ -75,4 +75,3 @@ int main()
     cout << "Done in " << clock() / CLOCKS_PER_SEC << "sec" << endl;
     return 0;
 }
-

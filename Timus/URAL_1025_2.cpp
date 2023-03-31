@@ -18,11 +18,16 @@ int main()
     cin >> n;
     ll a[n];
     for (ll i = 0; i < n; i++)
+    {
         cin >> a[i];
+        a[i] = a[i] / 2 + 1;
+    }
     sort(a, a + n);
     n = n / 2 + 1;
     for (ll i = 0; i < n; i++)
-        sum += a[i] / 2 + 1;
+    {
+        sum += a[i];
+    }
     cout << sum << endl;
     return 0;
 }
