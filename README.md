@@ -26,3 +26,6 @@
 [![DevSkill](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/DevSkill?label=DevSkill&logo=files&style=flat)](https://devskill.com/Home/PublicProfile/avishekchy45)
 [![NBUT](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/NBUT?label=NBUT&logo=files&style=flat)](https://ac.2333.moe/)
 [![BdOSN](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/BdOSN?label=BdOSN&logo=files&style=flat)](http://oj.bdosn.org/)
+
+
+<!-- <br>![Total_Attempted](https://tokei.rs/b1/github/avishekchy45/Online-Judge-Practise-Solutions?category=files) -->
