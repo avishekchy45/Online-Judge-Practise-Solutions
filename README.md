@@ -1,10 +1,8 @@
 # Online-Judge-Practise-Solutions
 
 [![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/Online-Judge-Practise-Solutions?logo=github&style=for-the-badge&label=last%20update)](https://github.com/avishekchy45/Online-Judge-Practise-Solutions)
-[![Total_Lines](https://img.shields.io/tokei/lines/github/avishekchy45/Online-Judge-Practise-Solutions?label=Total%20Lines&logo=visualstudiocode&style=for-the-badge)](https://github.com/avishekchy45/Online-Judge-Practise-Solutions)<br>
-[![StopStalk](https://img.shields.io/badge/StopStalk-green?logo=stopstalk&style=for-the-badge)](https://www.stopstalk.com/user/profile/avishekchy45)
-[![Virtual_Judge](https://img.shields.io/badge/Virtual_Judge-yellow?logo=opensourceinitiative&style=for-the-badge)](https://vjudge.net/user/MAC45)
-[![uDebug](https://img.shields.io/badge/uDebug-red?logo=opensourceinitiative&style=for-the-badge)](https://www.udebug.com/MAC45)
+[![Lines of code](https://img.shields.io/tokei/lines/github/avishekchy45/Online-Judge-Practise-Solutions?logo=visualstudiocode&style=for-the-badge)](https://github.com/avishekchy45/Online-Judge-Practise-Solutions)
+<br>
 
 # Number of Solutions (Click on the badge for account link)
 
@@ -27,5 +25,6 @@
 [![NBUT](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/NBUT?label=NBUT&logo=files&style=flat)](https://ac.2333.moe/)
 [![BdOSN](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/BdOSN?label=BdOSN&logo=files&style=flat)](http://oj.bdosn.org/)
 
-
-<!-- <br>![Total_Attempted](https://tokei.rs/b1/github/avishekchy45/Online-Judge-Practise-Solutions?category=files) -->
+[![StopStalk](https://img.shields.io/badge/StopStalk-green?logo=stopstalk&style=for-the-badge)](https://www.stopstalk.com/user/profile/avishekchy45)
+[![Virtual_Judge](https://img.shields.io/badge/Virtual_Judge-yellow?logo=opensourceinitiative&style=for-the-badge)](https://vjudge.net/user/MAC45)
+[![uDebug](https://img.shields.io/badge/uDebug-red?logo=opensourceinitiative&style=for-the-badge)](https://www.udebug.com/MAC45)
