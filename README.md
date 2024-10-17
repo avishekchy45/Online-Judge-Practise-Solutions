@@ -1,10 +1,11 @@
 # Online-Judge-Practise-Solutions
 
 [![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/Online-Judge-Practise-Solutions?logo=github&style=for-the-badge&label=last%20update)](https://github.com/avishekchy45/Online-Judge-Practise-Solutions)
-[![Lines of code](https://img.shields.io/tokei/lines/github/avishekchy45/Online-Judge-Practise-Solutions?logo=visualstudiocode&style=for-the-badge)](https://github.com/avishekchy45/Online-Judge-Practise-Solutions)
+<!-- [![Lines of code](https://img.shields.io/tokei/lines/github/avishekchy45/Online-Judge-Practise-Solutions?logo=visualstudiocode&style=for-the-badge)](https://github.com/avishekchy45/Online-Judge-Practise-Solutions) -->
+[![Lines of code](https://tokei.rs/b1/github/avishekchy45/Online-Judge-Practise-Solutions?logo=visualstudiocode&style=for-the-badge)](https://github.com/avishekchy45/Online-Judge-Practise-Solutions)
 <br>
 
-# Number of Solutions (Click on the badge for account link)
+# Number of Solutions (Click on the badge for account links)
 
 [![AtCoder](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/AtCoder?label=AtCoder&logo=files&style=flat)](https://atcoder.jp/users/MAC45)
 [![CodeChef](https://img.shields.io/github/directory-file-count/avishekchy45/Online-Judge-Practise-Solutions/CodeChef?label=CodeChef&logo=files&style=flat)](https://www.codechef.com/users/avishekchy45)
